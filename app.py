@@ -10,7 +10,7 @@
 | Item | Detail |
 |---|---|
 | **Dataset** | Yelp Review Full - 10,000 stratified sample |
-| **Target** | Sentiment: Positive · Neutral · Negative |
+| **Target** | Sentiment: Positive / Neutral / Negative |
 | **Classical Models** | SVM · Logistic Regression · Random Forest · XGBoost |
 | **Deep Learning** | DistilBERT (fine-tuned, 3 epochs) |
 | **Advanced Modules** | ABSA · Emotion Detection · Fake Review Detection |
