@@ -21,7 +21,7 @@
 ## 📁 Project Structure
 
 ```
-├── 01_EDA__1_.ipynb                      ← EDA notebook (your teammate's file)
+|   Data preprocessing and EDA.ipynb      # EDA notebook (teammate's file)                     ← EDA notebook (your teammate's file)
 │     • Load Yelp dataset (10 000 sample)
 │     • 13 engineered features per review
 │     • Class distribution, KDE plots, boxplots
