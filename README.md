@@ -7,8 +7,7 @@ A machine learning web application that classifies product reviews as **Positive
 ---
 
 ## 🚀 Live Demo
-
-👉 [https://sentimental-analysis-of-appuct-review.streamlit.app/](https://sentimental-analysis-of-appuct-review.streamlit.app/)
+https://sentimental-analysis-of-appuct-review.streamlit.app/
 
 ---
 
