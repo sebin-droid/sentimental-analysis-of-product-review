@@ -1,5 +1,8 @@
-streamlit>=1.35.0
-scikit-learn>=1.4.0
-torch>=2.2.0
-transformers>=4.40.0
-uvicorn
+plotly
+scipy
+scikit-learn
+xgboost
+nltk
+wordcloud
+transformers
+torch
